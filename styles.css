@@ -1,0 +1,30 @@
+#choices {
+  display: flex;
+  align: center
+}
+
+
+.choice {
+  border: 2px solid green;
+  height: 200px;
+  width: 200px;
+}
+
+#results {
+  display: flex;
+}
+
+
+.result {
+  border: 2px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+#winner {
+  border: 2px solid green;
+  height: 200px;
+  width: 200px;
+  display: float;
+}
+
